@@ -1,0 +1,16 @@
+[
+    {
+        "duration":"2003-2007",
+        "isnsttute": "Barnett College",
+        "address":"Fairfield, NY",
+        "degree":"Undergraduate",
+        "subject":"statistics"
+    },
+    {
+        "duration":"2007-2008",
+        "isnsttute": "ULA",
+        "address":"Los Angeles, CA",
+        "degree":"Master's",
+        "subject":"web development"
+    }
+]

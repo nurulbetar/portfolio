@@ -1,0 +1,14 @@
+[
+    {
+        "duration":"2019-2020",
+        "position":"webdeveloper",
+        "company":"Stark IndustriesLos Angeles CA",
+        "jobtitle":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+    },
+    {
+        "duration":"2020-present",
+        "position":"web designer",
+        "company":"Stark IndustriesLos Angeles CA",
+        "jobtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+    }
+]
